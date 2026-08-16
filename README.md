@@ -1,6 +1,4 @@
-## Hi there I'm Trushali 👋
-
-<!--
+  <!--
 **Trushali29/Trushali29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,34 +13,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I a fuzzy coder with too many ideas 🌠. Currently I am searching, stalking roles that can kickstart my career trajectory 🚀.
+<div align='center'>
+<h2> 👩‍💻 A Fuzzy Coder with Too Many Ideas 🌠 </h2>
+</div>
 
-My Current project status.... learning to build a movie reservation system with FastAPI.
+<b> Hi there I'm Trushali 👋 </b>
 
-My Previous Project are pinned 📍 below do check out coffee_sales and retail_analytics are best ones.
+Currently exploring roles that can kickstart my career trajectory 🚀 and stalking job descriptions like they’re treasure maps. 🕵️‍♀️
 
+### 🚧 Currently Building
 
-### Tech Stack I'm Comfortable with
-
-Python - Numpy, Pandas, Matplotlib, Tkinter, Request, Scrappy, BeautifulSoup, Dash (framework)
-
-SQL - MySQL, SQLite, Mongodb.
-
-
-### Newly Tech Stack I explored
-
-FastAPI, PostgresSQL, Alembic, Dash Framework 
+🎬 Movie Reservation System — learning backend development with FastAPI, REST APIs, and database integration.
 
 
-### Projects you can explore
+### 📌 Previous Projects
 
-- Blogging App [Link](https://github.com/Trushali29/BlogApp)
-- Retail Sales Analytics [Link](https://github.com/Trushali29/Retail-Sales-Analysis)
-- Coffee Sales Full Analysis using SQL Queries [Link](https://github.com/Trushali29/Coffee_Sales_Analysis)
+☕ Coffee Sales Analysis — SQL-focused analysis of customer purchasing behavior and sales trends.
+
+🛍️ Retail Sales Analytics — Python + SQL analysis of promotional campaigns, revenue, and sold-unit performance.
+
+*My pinned projects are where most of my learning experiments live — coffee_sales and retail_analytics are my favorites, so definitely check them out! 🚀*
 
 
-## How to reach me via ✉️
+### 🛠️ Tech Stack I'm Comfortable With
 
-Linkedin id - trushalichawda
+**Python** — NumPy, Pandas, Matplotlib, Tkinter, Requests, Scrapy, BeautifulSoup
 
-Email id - trushalichawda.tc@gmail.com
+**SQL & Databases** — MySQL, SQLite, MongoDB
+
+### 🌱 Technologies I've Recently Explored
+
+FastAPI · PostgreSQL · Alembic · Dash
+
+### 📌 Projects You Can Explore
+
+* 📝 **[Blogging App](https://github.com/Trushali29/BlogApp)** — Backend application built while learning FastAPI, PostgreSQL, authentication, and API development.
+* 🛍️ **[Retail Sales Analytics](https://github.com/Trushali29/Retail-Sales-Analysis)** — Python + SQL analysis of retail promotions, revenue, and sold-unit performance.
+* ☕ **[Coffee Sales Analysis](https://github.com/Trushali29/Coffee_Sales_Analysis)** — SQL-focused analysis of coffee sales, customer purchasing behavior, products, and sales trends.
+
+## 📬 How to Reach Me
+
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/trushalichawda/]
+* ✉️ **Email:** [trushalichawda.tc@gmail.com]
