@@ -19,8 +19,7 @@ I a fuzzy coder with too many ideas 🌠. Currently I am searching, stalking rol
 
 My Current project status.... learning to build a movie reservation system with FastAPI.
 
-My Previous Project are pinned below  do check out coffee_sales and retail_analytics are best ones.
-
+My Previous Project are pinned 📍 below do check out coffee_sales and retail_analytics are best ones.
 
 
 ### Tech Stack I'm Comfortable with
@@ -30,16 +29,19 @@ Python - Numpy, Pandas, Matplotlib, Tkinter, Request, Scrappy, BeautifulSoup, Da
 SQL - MySQL, SQLite, Mongodb.
 
 
-
 ### Newly Tech Stack I explored
 
-FastAPI, PostgresSQL, Alembic - [Blogging App] https://github.com/Trushali29/BlogApp
-
-Dash Framework : For retails Analytics Plotly Dashboard (https://github.com/Trushali29/Retail-Sales-Analysis)
+FastAPI, PostgresSQL, Alembic, Dash Framework 
 
 
+### Projects you can explore
 
-### How to reach me via ✉️
+- Blogging App [Link](https://github.com/Trushali29/BlogApp)
+- Retail Sales Analytics [Link](https://github.com/Trushali29/Retail-Sales-Analysis)
+- Coffee Sales Full Analysis using SQL Queries [Link](https://github.com/Trushali29/Coffee_Sales_Analysis)
+
+
+## How to reach me via ✉️
 
 Linkedin id - trushalichawda
 
