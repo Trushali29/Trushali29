@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 I a fuzzy coder with too many ideas 🌠. Currently I am searching, stalking roles that can kickstart my career trajectory 🚀.
 
 My Current project status.... learning to build a movie reservation system with FastAPI.
+
 My Previous Project are pinned below  do check out coffee_sales and retail_analytics are best ones.
 
 **How to reach me via ✉️**
+
+
 Linkedin id - trushalichawda
+
 Email id - trushalichawda.tc@gmail.com
