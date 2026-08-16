@@ -21,8 +21,25 @@ My Current project status.... learning to build a movie reservation system with 
 
 My Previous Project are pinned below  do check out coffee_sales and retail_analytics are best ones.
 
-**How to reach me via ✉️**
 
+
+### Tech Stack I'm Comfortable with
+
+Python - Numpy, Pandas, Matplotlib, Tkinter, Request, Scrappy, BeautifulSoup, Dash (framework)
+
+SQL - MySQL, SQLite, Mongodb.
+
+
+
+### Newly Tech Stack I explored
+
+FastAPI, PostgresSQL, Alembic - [Blogging App] https://github.com/Trushali29/BlogApp
+
+Dash Framework : For retails Analytics Plotly Dashboard (https://github.com/Trushali29/Retail-Sales-Analysis)
+
+
+
+### How to reach me via ✉️
 
 Linkedin id - trushalichawda
 
