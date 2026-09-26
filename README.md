@@ -23,7 +23,7 @@ Currently exploring roles that can kickstart my career trajectory 🚀 and stalk
 
 ### 🚧 Currently Building
 
-🎬 URL Shorterner — learning backend development with FastAPI, REST APIs, and database integration.
+🎬 URL Shortener — learning backend development with FastAPI, REST APIs, and database integration.
 
 
 ### 📌 Previous Projects
