@@ -23,7 +23,7 @@ Currently exploring roles that can kickstart my career trajectory 🚀 and stalk
 
 ### 🚧 Currently Building
 
-🎬 Movie Reservation System — learning backend development with FastAPI, REST APIs, and database integration.
+🎬 URL Shorterner — learning backend development with FastAPI, REST APIs, and database integration.
 
 
 ### 📌 Previous Projects
